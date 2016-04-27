@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>fileNamesAsTitles</name>
+  <type>edit</type>
+  <author>Francesco Martini</author>
+  <description>Add/modify the title tag of xhtml selected files using
+  the filename (without extension)</description>
+  <engine>python3.4</engine>
+  <version>0.1.0</version>
+  <autostart>true</autostart>
+  <autoclose>true</autoclose>
+  <oslist>osx,unx,win</oslist>
+</plugin>
